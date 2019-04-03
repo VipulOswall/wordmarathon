@@ -1,6 +1,6 @@
 # Word Marathon
 
- This is a hobby project where I created a word game.
+ This is a word game.
  
  I would love to receive any suggestions / improvements.
  
